@@ -1,0 +1,1 @@
+﻿SELECT id, first_name, is_deleted, last_modified_date, modified_by_user_id FROM employees;
